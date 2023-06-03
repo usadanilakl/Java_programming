@@ -36,5 +36,5 @@ public class Variables extends QuizMain {
     public static ArrayList<QuizMain> varList = new ArrayList<>(Arrays.asList(v1,v2,v3,v4,v5));
 
 
-
+// test
 }
